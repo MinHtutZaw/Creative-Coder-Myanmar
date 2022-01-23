@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="410" height="383" viewBox="0 0 410 383">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #655c2d;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        font-size: 20px;
+        letter-spacing: 0.001em;
+      }
+
+      .cls-3 {
+        font-family: Roboto-Medium, Roboto;
+        font-weight: 500;
+      }
+
+      .cls-4, .cls-5 {
+        font-family: Roboto-Regular, Roboto;
+      }
+
+      .cls-5, .cls-6 {
+        fill: #0092ef;
+      }
+
+      .cls-7 {
+        fill: #e9ca32;
+      }
+
+      .cls-8 {
+        fill: #ffde25;
+      }
+
+      .cls-9 {
+        filter: url(#Rectangle_8);
+      }
+    </style>
+    <filter id="Rectangle_8" x="0" y="0" width="410" height="383" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-color="#989898" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_30" data-name="Group 30" transform="translate(-374 -1449)">
+    <g class="cls-9" transform="matrix(1, 0, 0, 1, 374, 1449)">
+      <rect id="Rectangle_8-2" data-name="Rectangle 8" class="cls-1" width="350" height="323" rx="10" transform="translate(30 20)"/>
+    </g>
+    <rect id="Rectangle_9" data-name="Rectangle 9" class="cls-2" width="350" height="220" rx="10" transform="translate(404 1469)"/>
+    <g id="Group_23" data-name="Group 23" transform="translate(0 4)">
+      <text id="Javascript_Course" data-name="Javascript Course" class="cls-3" transform="translate(505 1724)"><tspan x="-80.983" y="0">Javascript Course</tspan></text>
+      <text id="_50000_Kyats" data-name="50000 Kyats" class="cls-4" transform="translate(479 1763)"><tspan x="-55.196" y="0">50000 Kyats</tspan></text>
+      <text id="See_more_detail" data-name="See more detail" class="cls-5" transform="translate(643 1763)"><tspan x="-69.103" y="0">See more detail</tspan></text>
+      <path id="Path_662" data-name="Path 662" class="cls-6" d="M9.682,25.517H22.236a.173.173,0,0,1,.121.3l-3.922,3.9a.184.184,0,0,0,0,.243l.89.89a.184.184,0,0,0,.243,0l4.67-4.67V31.1h1.617V18.3H24.238v4.913l-4.65-4.67a.184.184,0,0,0-.243,0l-.89.89a.184.184,0,0,0,0,.243l3.9,3.9a.173.173,0,0,1-.121.3H9.682a.181.181,0,0,0-.182.182v1.253A.187.187,0,0,0,9.682,25.517Z" transform="translate(708 1731.302)"/>
+    </g>
+    <g id="javascript-1" transform="translate(531.849 1527.008)">
+      <path id="Path_663" data-name="Path 663" class="cls-7" d="M7.628,93.229,0,0,91.1.187,83.037,93.229,45.9,103.984Z"/>
+      <path id="Path_664" data-name="Path 664" class="cls-8" d="M62.468,98.186v-86.1l37.517.125-6.69,77.034Z" transform="translate(-16.573 -3.206)"/>
+      <g id="Group_29" data-name="Group 29" transform="translate(15.061 19.102)">
+        <path id="Path_665" data-name="Path 665" class="cls-1" d="M47.317,26H37.4V83.307l-7.714-1.469V74.123L20.5,72.654V89.919L47.317,96.9Zm7.44,0H82.215L80.378,36.984H65.239V55.008H80.378l-1.837,36.38L54.757,96.9V85.511L70.827,80l.928-15.061-17,2.461Z" transform="translate(-20.5 -26)"/>
+      </g>
+    </g>
+  </g>
+</svg>

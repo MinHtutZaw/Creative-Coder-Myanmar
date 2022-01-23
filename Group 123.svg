@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1578" height="641" viewBox="0 0 1578 641">
+  <defs>
+    <style>
+      .cls-1, .cls-5, .cls-6 {
+        fill: #0092ef;
+      }
+
+      .cls-1 {
+        font-size: 34px;
+        font-family: Roboto-Medium, Roboto;
+        font-weight: 500;
+      }
+
+      .cls-2, .cls-3 {
+        font-size: 48px;
+      }
+
+      .cls-2 {
+        font-family: Roboto-Bold, Roboto;
+        font-weight: 700;
+      }
+
+      .cls-3, .cls-5 {
+        font-family: Roboto-Regular, Roboto;
+      }
+
+      .cls-4, .cls-7 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        stroke: #0092ef;
+        stroke-width: 2px;
+      }
+
+      .cls-5 {
+        font-size: 16px;
+      }
+
+      .cls-8 {
+        fill: url(#pattern);
+      }
+
+      .cls-9 {
+        fill: url(#pattern-2);
+      }
+
+      .cls-10 {
+        fill: url(#pattern-3);
+      }
+
+      .cls-11 {
+        fill: url(#pattern-4);
+      }
+
+      .cls-12 {
+        fill: url(#pattern-5);
+      }
+
+      .cls-13 {
+        stroke: none;
+      }
+
+      .cls-14 {
+        fill: none;
+      }
+    </style>
+    <pattern id="pattern" width="1" height="1" viewBox="0 0 252 310">
+      <image preserveAspectRatio="xMidYMid slice" width="413.333" height="310" xlink:href="Group%20123-image.png"/>
+    </pattern>
+    <pattern id="pattern-2" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 1600 1200">
+      <image width="1600" height="1200" xlink:href="Group%20123-image2.png"/>
+    </pattern>
+    <pattern id="pattern-3" width="1" height="1" viewBox="0 0 302 374">
+      <image preserveAspectRatio="xMidYMid slice" width="498.667" height="374" xlink:href="Group%20123-image3.png"/>
+    </pattern>
+    <pattern id="pattern-4" width="1" height="1" viewBox="187.489 0 302 374">
+      <image preserveAspectRatio="xMidYMid slice" width="498.667" height="374" xlink:href="Group%20123-image4.png"/>
+    </pattern>
+    <pattern id="pattern-5" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 564 1599">
+      <image width="564" height="1599" xlink:href="Group%20123-image5.png"/>
+    </pattern>
+  </defs>
+  <g id="Group_123" data-name="Group 123" transform="translate(-171 -2965)">
+    <g id="Group_121" data-name="Group 121">
+      <text id="Project" class="cls-1" transform="translate(345 2997)"><tspan x="-54.154" y="0">Project</tspan></text>
+      <text id="Our_Project" data-name="Our Project" class="cls-2" transform="translate(413 3055)"><tspan x="-121.945" y="0">Our Project</tspan></text>
+      <text id="Gallery." class="cls-3" transform="translate(370 3122)"><tspan x="-78.516" y="0">Gallery.</tspan></text>
+      <g id="Group_120" data-name="Group 120">
+        <g id="Rectangle_78" data-name="Rectangle 78" class="cls-4" transform="translate(1450 3076)">
+          <rect class="cls-13" width="179" height="60" rx="30"/>
+          <rect class="cls-14" x="1" y="1" width="177" height="58" rx="29"/>
+        </g>
+        <text id="More_Details" data-name="More Details" class="cls-5" transform="translate(1522 3112)"><tspan x="-44.855" y="0">More Details</tspan></text>
+        <circle id="Ellipse_17" data-name="Ellipse 17" class="cls-6" cx="12.5" cy="12.5" r="12.5" transform="translate(1577 3094)"/>
+        <path id="Path_1720" data-name="Path 1720" class="cls-7" d="M20.316,23.168a1.188,1.188,0,0,1-.84-2.027L23.9,16.713l-4.427-4.428a1.187,1.187,0,0,1,1.679-1.679l5.267,5.267a1.187,1.187,0,0,1,0,1.679L21.156,22.82A1.183,1.183,0,0,1,20.316,23.168Z" transform="translate(1566.871 3089.742)"/>
+      </g>
+    </g>
+    <rect id="e2078e3def2f7517cb7b0b2054a72d53" class="cls-8" width="252" height="310" rx="10" transform="translate(291 3241)"/>
+    <rect id="f454e10fde8550ef7706ba4473fb2b85" class="cls-9" width="252" height="310" rx="10" transform="translate(1377 3241)"/>
+    <rect id="e4df9434fbdf8b96f51ccb051ada7f50" class="cls-10" width="302" height="374" rx="10" transform="translate(1101 3209)"/>
+    <rect id="fed99af24039b47fb69eb95eaf06fdda" class="cls-11" width="302" height="374" rx="10" transform="translate(517 3209)"/>
+    <rect id="_12b115649e7c91bb0d4f16fa55bd02b7" data-name="12b115649e7c91bb0d4f16fa55bd02b7" class="cls-12" width="340" height="420" rx="10" transform="translate(790 3186)"/>
+    <g id="Group_119" data-name="Group 119" transform="translate(-30)">
+      <circle id="Ellipse_18" data-name="Ellipse 18" class="cls-6" cx="30" cy="30" r="30" transform="translate(1719 3366)"/>
+      <path id="Path_1721" data-name="Path 1721" class="cls-7" d="M21.874,40.1a2.745,2.745,0,0,1-1.941-4.687L30.169,25.181,19.933,14.944a2.745,2.745,0,1,1,3.882-3.882L35.993,23.24a2.744,2.744,0,0,1,0,3.882L23.815,39.3A2.735,2.735,0,0,1,21.874,40.1Z" transform="translate(1721.037 3370.819)"/>
+    </g>
+    <g id="Group_122" data-name="Group 122" transform="translate(171 3366)">
+      <circle id="Ellipse_18-2" data-name="Ellipse 18" class="cls-6" cx="30" cy="30" r="30"/>
+      <path id="Path_1721-2" data-name="Path 1721" class="cls-7" d="M34.052,40.1a2.745,2.745,0,0,0,1.941-4.687L25.758,25.181,35.993,14.944a2.745,2.745,0,0,0-3.882-3.882L19.933,23.24a2.744,2.744,0,0,0,0,3.882L32.111,39.3A2.735,2.735,0,0,0,34.052,40.1Z" transform="translate(2.037 4.819)"/>
+    </g>
+  </g>
+</svg>

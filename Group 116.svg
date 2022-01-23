@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1113" height="484" viewBox="0 0 1113 484">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 48px;
+      }
+
+      .cls-1, .cls-2, .cls-6, .cls-7 {
+        font-family: Roboto-Regular, Roboto;
+      }
+
+      .cls-1, .cls-5, .cls-6, .cls-7 {
+        letter-spacing: 0.001em;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #0092ef;
+      }
+
+      .cls-2, .cls-6, .cls-7 {
+        font-size: 16px;
+      }
+
+      .cls-2 {
+        letter-spacing: 0.15em;
+        opacity: 0.5;
+      }
+
+      .cls-4 {
+        fill: #f5f5f5;
+      }
+
+      .cls-5 {
+        font-size: 20px;
+        font-family: Roboto-Medium, Roboto;
+        font-weight: 500;
+      }
+
+      .cls-6 {
+        fill: #707070;
+      }
+
+      .cls-7, .cls-8 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Group_116" data-name="Group 116" transform="translate(-404 -1198)">
+    <text id="Our_services" data-name="Our services" class="cls-1" transform="translate(960 1272)"><tspan x="-132.448" y="0">Our services</tspan></text>
+    <text id="WHAT_WE_DO" data-name="WHAT WE DO" class="cls-2" transform="translate(960 1213)"><tspan x="-59.355" y="0">WHAT WE DO</tspan></text>
+    <rect id="Rectangle_24" data-name="Rectangle 24" class="cls-3" width="62" height="3" rx="1.5" transform="translate(929 1299)"/>
+    <rect id="Rectangle_25" data-name="Rectangle 25" class="cls-4" width="321" height="300" rx="10" transform="translate(404 1382)"/>
+    <rect id="Rectangle_25-2" data-name="Rectangle 25" class="cls-4" width="321" height="300" rx="10" transform="translate(800 1382)"/>
+    <rect id="Rectangle_25-3" data-name="Rectangle 25" class="cls-4" width="321" height="300" rx="10" transform="translate(1196 1382)"/>
+    <text id="UX_Research" data-name="UX Research" class="cls-5" transform="translate(506 1520)"><tspan x="-57.14" y="0">UX Research</tspan></text>
+    <text id="UI_Design" data-name="UI Design" class="cls-5" transform="translate(845 1515)"><tspan x="0" y="0">UI Design</tspan></text>
+    <text id="Web_Development" data-name="Web Development" class="cls-5" transform="translate(1241 1515)"><tspan x="0" y="0">Web Development</tspan></text>
+    <g id="Group_76" data-name="Group 76" transform="translate(1163.245 1275.6)">
+      <g id="Group_65" data-name="Group 65" transform="translate(91.978 163.148)">
+        <g id="Group_64" data-name="Group 64" transform="translate(0)">
+          <path id="Path_687" data-name="Path 687" class="cls-3" d="M296.615,337.886l-5.381-5.381-.771-.771v1.913l5.381-5.381.771-.771a1.353,1.353,0,0,0-1.913-1.913l-5.381,5.381-.771.771a1.373,1.373,0,0,0,0,1.913l5.381,5.381.771.771a1.353,1.353,0,0,0,1.913-1.913Z" transform="translate(-288.162 -325.198)"/>
+        </g>
+      </g>
+      <g id="Group_67" data-name="Group 67" transform="translate(113.356 163.143)">
+        <g id="Group_66" data-name="Group 66" transform="translate(0 0)">
+          <path id="Path_688" data-name="Path 688" class="cls-3" d="M606.726,339.729l5.381-5.381.771-.771a1.373,1.373,0,0,0,0-1.913l-5.381-5.381-.771-.771a1.353,1.353,0,0,0-1.913,1.913l5.381,5.381.771.771v-1.913l-5.381,5.381-.771.771a1.353,1.353,0,1,0,1.913,1.913Z" transform="translate(-604.423 -325.123)"/>
+        </g>
+      </g>
+      <g id="Group_69" data-name="Group 69" transform="translate(102.73 160.115)">
+        <g id="Group_68" data-name="Group 68" transform="translate(0 0)">
+          <path id="Path_689" data-name="Path 689" class="cls-3" d="M449.88,300.4q1.024-3.123,2.041-6.246,1.612-4.938,3.224-9.869c.243-.75.493-1.507.737-2.258a1.364,1.364,0,0,0-.946-1.663,1.381,1.381,0,0,0-1.663.946q-1.024,3.123-2.041,6.246-1.612,4.938-3.224,9.869c-.243.75-.493,1.507-.737,2.258a1.364,1.364,0,0,0,.946,1.663,1.381,1.381,0,0,0,1.663-.946Z" transform="translate(-447.218 -280.323)"/>
+        </g>
+      </g>
+      <g id="Group_71" data-name="Group 71" transform="translate(77.756 151.4)">
+        <g id="Group_70" data-name="Group 70" transform="translate(0 0)">
+          <path id="Path_690" data-name="Path 690" class="cls-3" d="M133.708,157.078v26.707c0,.068.027.446-.027.48,0,0,.068-.351.007-.081-.02.088-.034.183-.054.27a5.127,5.127,0,0,1-.162.52c-.1.3.142-.264-.007.007l-.081.162c-.068.128-.149.257-.23.385-.014.027-.034.047-.047.074-.088.115-.068.095.054-.061,0,.041-.142.169-.169.2a4.909,4.909,0,0,1-.379.372.8.8,0,0,1-.135.115c.047-.034.088-.068.135-.1-.047.034-.095.068-.149.1a3.623,3.623,0,0,1-.385.23,1.631,1.631,0,0,1-.243.122c.007.007.27-.1.074-.034-.176.061-.345.115-.52.162-.088.02-.183.034-.27.054-.311.068.311-.014-.007,0-.128.007-.25.014-.379.014H83.443a1.775,1.775,0,0,1-.189-.007c-.047,0-.426-.007-.2-.007s-.047-.014-.095-.02l-.27-.061c-.149-.041-.291-.088-.433-.142-.277-.095.189.115.034.014a1.891,1.891,0,0,0-.2-.1c-.155-.081-.3-.183-.453-.277-.257-.162.223.2-.007-.007l-.135-.115a4.912,4.912,0,0,1-.372-.379c-.02-.02-.115-.115-.115-.135.034.047.068.088.1.135-.034-.047-.068-.095-.1-.149a4.536,4.536,0,0,1-.27-.46c-.02-.041-.169-.25-.047-.081s-.014-.034-.034-.088a3.5,3.5,0,0,1-.128-.433c-.02-.088-.034-.183-.054-.27-.068-.311.014.311,0-.007-.007-.128-.014-.25-.014-.379v-26.8c0-.061.007-.128.007-.189,0-.034.007-.061.007-.095.014-.149.014-.122-.014.081-.041-.054.074-.372.095-.453.047-.176.128-.345.169-.514-.081.331-.041.095.014-.007a1.821,1.821,0,0,1,.108-.2c.034-.061.2-.406.264-.412-.02,0-.183.216-.047.061.061-.068.115-.135.176-.2.122-.128.257-.243.385-.365.23-.2-.25.162.007-.007.047-.034.095-.068.149-.1q.193-.122.385-.223l.081-.041c.135-.061.108-.054-.074.027.027-.041.21-.081.257-.095a5.08,5.08,0,0,1,.527-.142,1.26,1.26,0,0,1,.183-.034,1.579,1.579,0,0,0-.176.027,1.658,1.658,0,0,1,.189-.014c.095-.007.189-.007.284-.007h43.241c1.338,0,2.677-.007,4.015,0h.122c.061,0,.128.007.189.007.034,0,.061.007.095.007.149.014.122.014-.081-.014.047-.034.392.081.453.095.149.041.291.088.433.142.3.1-.264-.142.007.007.068.034.135.068.2.1.142.081.277.169.419.257.216.142-.061-.054-.061-.054.041,0,.176.149.2.169.108.1.216.2.311.311.027.034.169.162.169.2,0-.047-.155-.223-.054-.061s.2.3.277.453l.081.162c.149.27-.095-.291.007.007.047.142.1.284.142.433s.047.3.095.453c-.1-.324-.014-.108-.007.014a1.157,1.157,0,0,1,.02.27,1.352,1.352,0,1,0,2.7,0,5.749,5.749,0,0,0-5.685-5.678H84.086a7.478,7.478,0,0,0-2.292.243,5.771,5.771,0,0,0-4.035,5.543c-.007,2.278,0,4.556,0,6.834V183.4c0,.189-.007.385.007.575a5.672,5.672,0,0,0,2.021,4.15,5.84,5.84,0,0,0,3.664,1.338h47.189a5.738,5.738,0,0,0,5.245-3.292,7.821,7.821,0,0,0,.534-3.332V157.078a1.365,1.365,0,0,0-1.352-1.352A1.38,1.38,0,0,0,133.708,157.078Z" transform="translate(-77.756 -151.4)"/>
+        </g>
+      </g>
+      <g id="Group_73" data-name="Group 73" transform="translate(100.883 186.758)">
+        <g id="Group_72" data-name="Group 72" transform="translate(0 0)">
+          <path id="Path_691" data-name="Path 691" class="cls-3" d="M429.6,675.835v10.741l1.352-1.352h-9.7l1.352,1.352V675.835l-1.352,1.352h9.7a1.352,1.352,0,1,0,0-2.7h-9.7a1.374,1.374,0,0,0-1.352,1.352v10.741a1.374,1.374,0,0,0,1.352,1.352h9.7a1.374,1.374,0,0,0,1.352-1.352V675.835a1.352,1.352,0,1,0-2.7,0Z" transform="translate(-419.9 -674.482)"/>
+        </g>
+      </g>
+      <g id="Group_75" data-name="Group 75" transform="translate(93.649 197.489)">
+        <g id="Group_74" data-name="Group 74" transform="translate(0 0)">
+          <path id="Path_692" data-name="Path 692" class="cls-3" d="M314.235,835.938H335.42c.98,0,1.967.027,2.947,0h.041a1.352,1.352,0,0,0,0-2.7H317.223c-.98,0-1.967-.027-2.947,0h-.041a1.352,1.352,0,0,0,0,2.7Z" transform="translate(-312.882 -833.222)"/>
+        </g>
+      </g>
+    </g>
+    <g id="ui_design-2" data-name="ui design" transform="translate(841 1419)">
+      <path id="Path_694" data-name="Path 694" class="cls-3" d="M58,10H6a2,2,0,0,0-2,2V52a2,2,0,0,0,2,2H58a2,2,0,0,0,2-2V12A2,2,0,0,0,58,10ZM6,12H58v6H6ZM6,52V20H58V52ZM56,15a1,1,0,1,1-1-1A1,1,0,0,1,56,15ZM21,15a1,1,0,0,1-1,1H9a1,1,0,0,1,0-2H20A1,1,0,0,1,21,15ZM8,25a1,1,0,0,1,1-1h6a1,1,0,0,1,0,2H9A1,1,0,0,1,8,25Zm0,5a1,1,0,0,1,1-1H23a1,1,0,0,1,0,2H9A1,1,0,0,1,8,30Zm0,4a1,1,0,0,1,1-1H23a1,1,0,0,1,0,2H9A1,1,0,0,1,8,34Zm15,5H9a1,1,0,0,1,0-2H23a1,1,0,0,1,0,2Zm20,4H21a1,1,0,0,0-1,1v4a1,1,0,0,0,1,1H43a1,1,0,0,0,1-1V44A1,1,0,0,0,43,43Zm-1,4H22V45H42ZM54.6,23H33.4A1.4,1.4,0,0,0,32,24.4V37.6A1.4,1.4,0,0,0,33.4,39H54.6A1.4,1.4,0,0,0,56,37.6V24.4A1.4,1.4,0,0,0,54.6,23ZM54,25v8.586l-3.293-3.293a1,1,0,0,0-1.414,0L45.5,34.086l-3.793-3.793a1,1,0,0,0-1.357-.052L34,35.683V25ZM45.586,37H35.536l5.411-4.638Zm2.828,0-1.5-1.5L50,32.414l4,4V37ZM45.5,31A2.5,2.5,0,1,0,43,28.5,2.5,2.5,0,0,0,45.5,31Zm0-3a.5.5,0,1,1-.5.5A.5.5,0,0,1,45.5,28Z"/>
+    </g>
+    <path id="Path_695" data-name="Path 695" class="cls-3" d="M58.155,37.084a12.55,12.55,0,1,0-1.3,18.856l6.554,6.554a1.7,1.7,0,0,0,2.409-2.409l-6.554-6.554a12.555,12.555,0,0,0-1.113-16.447ZM42.821,52.418a9.14,9.14,0,1,1,12.926,0,9.14,9.14,0,0,1-12.926,0ZM5,55.541V21.621a7.453,7.453,0,0,1,7.444-7.444H44.32a7.453,7.453,0,0,1,7.444,7.444v2.9a1.7,1.7,0,0,1-3.407,0v-2.9a4.042,4.042,0,0,0-4.038-4.038H12.444a4.042,4.042,0,0,0-4.038,4.038v33.92a4.042,4.042,0,0,0,4.038,4.038H33.286a1.7,1.7,0,0,1,0,3.407H12.444A7.453,7.453,0,0,1,5,55.541Zm10.307-14.5a1.7,1.7,0,0,1,1.7,1.7v7.74a1.7,1.7,0,0,1-3.407,0v-7.74a1.7,1.7,0,0,1,1.7-1.7Zm7.9-7.046a1.7,1.7,0,0,1,1.7,1.7V50.484a1.7,1.7,0,0,1-3.407,0V35.7a1.7,1.7,0,0,1,1.7-1.7Zm7.9-5.426a1.7,1.7,0,0,1,1.7,1.7V50.484a1.7,1.7,0,1,1-3.407,0V30.271a1.7,1.7,0,0,1,1.7-1.7Z" transform="translate(444 1412.823)"/>
+    <text id="Curabitur_turpis_sapien_posuere_in_mauris_eget_ultricies_rutrum_ante." data-name="Curabitur turpis sapien, posuere in mauris eget, ultricies rutrum ante." class="cls-6" transform="translate(449 1540)"><tspan x="0" y="15">Curabitur turpis sapien, posuere </tspan><tspan x="0" y="40">in mauris eget, ultricies rutrum </tspan><tspan x="0" y="65">ante.</tspan></text>
+    <text id="Curabitur_turpis_sapien_posuere_in_mauris_eget_ultricies_rutrum_ante.-2" data-name="Curabitur turpis sapien, posuere in mauris eget, ultricies rutrum ante." class="cls-6" transform="translate(845 1540)"><tspan x="0" y="15">Curabitur turpis sapien, posuere </tspan><tspan x="0" y="40">in mauris eget, ultricies rutrum </tspan><tspan x="0" y="65">ante.</tspan></text>
+    <text id="Curabitur_turpis_sapien_posuere_in_mauris_eget_ultricies_rutrum_ante.-3" data-name="Curabitur turpis sapien, posuere in mauris eget, ultricies rutrum ante." class="cls-6" transform="translate(1241 1540)"><tspan x="0" y="15">Curabitur turpis sapien, posuere </tspan><tspan x="0" y="40">in mauris eget, ultricies rutrum </tspan><tspan x="0" y="65">ante.</tspan></text>
+    <g id="Group_77" data-name="Group 77" transform="translate(-10 293)">
+      <rect id="Rectangle_27" data-name="Rectangle 27" class="cls-3" width="153" height="37" rx="18.5" transform="translate(449 1327)"/>
+      <text id="More_Details" data-name="More Details" class="cls-7" transform="translate(469 1351)"><tspan x="0" y="0">More Details</tspan></text>
+      <circle id="Ellipse_12" data-name="Ellipse 12" class="cls-8" cx="9" cy="9" r="9" transform="translate(564 1337)"/>
+      <path id="Path_696" data-name="Path 696" class="cls-3" d="M20.13,21.143a1,1,0,0,1-.708-1.709L23.155,15.7l-3.733-3.733a1,1,0,1,1,1.416-1.416l4.441,4.441a1,1,0,0,1,0,1.416l-4.441,4.441A1,1,0,0,1,20.13,21.143Z" transform="translate(550.649 1330.299)"/>
+    </g>
+    <g id="Group_78" data-name="Group 78" transform="translate(386 293)">
+      <rect id="Rectangle_27-2" data-name="Rectangle 27" class="cls-3" width="153" height="37" rx="18.5" transform="translate(449 1327)"/>
+      <text id="More_Details-2" data-name="More Details" class="cls-7" transform="translate(469 1351)"><tspan x="0" y="0">More Details</tspan></text>
+      <circle id="Ellipse_12-2" data-name="Ellipse 12" class="cls-8" cx="9" cy="9" r="9" transform="translate(564 1337)"/>
+      <path id="Path_696-2" data-name="Path 696" class="cls-3" d="M20.13,21.143a1,1,0,0,1-.708-1.709L23.155,15.7l-3.733-3.733a1,1,0,1,1,1.416-1.416l4.441,4.441a1,1,0,0,1,0,1.416l-4.441,4.441A1,1,0,0,1,20.13,21.143Z" transform="translate(550.649 1330.299)"/>
+    </g>
+    <g id="Group_79" data-name="Group 79" transform="translate(782 293)">
+      <rect id="Rectangle_27-3" data-name="Rectangle 27" class="cls-3" width="153" height="37" rx="18.5" transform="translate(449 1327)"/>
+      <text id="More_Details-3" data-name="More Details" class="cls-7" transform="translate(469 1351)"><tspan x="0" y="0">More Details</tspan></text>
+      <circle id="Ellipse_12-3" data-name="Ellipse 12" class="cls-8" cx="9" cy="9" r="9" transform="translate(564 1337)"/>
+      <path id="Path_696-3" data-name="Path 696" class="cls-3" d="M20.13,21.143a1,1,0,0,1-.708-1.709L23.155,15.7l-3.733-3.733a1,1,0,1,1,1.416-1.416l4.441,4.441a1,1,0,0,1,0,1.416l-4.441,4.441A1,1,0,0,1,20.13,21.143Z" transform="translate(550.649 1330.299)"/>
+    </g>
+  </g>
+</svg>
