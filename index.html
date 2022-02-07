@@ -11,71 +11,14 @@
         integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
     <!--icon-->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.1/font/bootstrap-icons.css">
-
-    <style>
-      
-
-
-
-        .FR {
-            border-style: none none none solid;
-            border-width: 5px;
-            border-color: #0092ef;
-        }
-
-        .BVC {
-            background-color: #0092ef;
-            border: none;
-            color: white;
-            width: 200px;
-            height: 40px;
-            padding: 2px 20px 0px;
-            font-size: 19px;
-            border-radius: 12px;
-        }
-
-
-
-
-      
-        
-
-       
-
-        .feedback-container {
-            display: flex;
-
-            flex-direction: row;
-            justify-content: center;
-        }
-
-
-
-        .AvaterImage {
-            border-radius: 50%;
-        }
-
-
-
-
-
-
-        @media (max-width:767px) {
-            .feedback-container {
-                display: flex;
-                flex-wrap: wrap;
-                flex-direction: row;
-                justify-content: center;
-            }
-        }
-    </style>
+    <link rel="stylesheet" href="css/main.css">
 
 
 </head>
 
 <body>
-    <div class="Maincontainer m-5 justify-content-center align-items-center ">
-        <!--Main nav bar-->
+    <div class="Maincontainer  justify-content-center align-items-center ">
+        <!--Main Navbar-->
         <header>
             <nav class="navbar navbar-expand-lg fixed-top navbar-light bg-light mb-5 d-flex ">
                 <div class="container">
@@ -89,7 +32,7 @@
                     <div class="collapse navbar-collapse" id="navbarNav">
                         <ul class="navbar-nav ms-auto">
                             <li class="nav-item">
-                                <a class="nav-link active" aria-current="page" href="Creative Coder MM.html">Home</a>
+                                <a class="nav-link active" aria-current="page" href="index.html">Home</a>
                             </li>
 
                             <li class="nav-item">
@@ -98,21 +41,23 @@
                             <li class="nav-item">
                                 <a class="nav-link" href="">Courses</a>
                             </li>
-                          
+
                             <li class="nav-item">
                                 <a class="nav-link " href="About Us.html"> About Us</a>
                             </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href=""><i class="bi bi-search"></i>
+
+                            <li class="nav-item me-2">
+                                <a class="nav-link" href=""><img src="Image Folder/search.svg" alt="Search">
                                     <span class="visually-hidden">Search</span></a>
                             </li>
                             <!--Dark Mode -->
                             <li class="nav-item">
                                 <a class="nav-link" href="">
-                                    <i class="bi bi-moon-fill"></i> <span class="visually-hidden">Dark Mode</span>
+                                    <img src="Image Folder/moon.svg" alt="Dark Mode"> <span class="visually-hidden">Dark
+                                        Mode</span>
                                 </a>
                             </li>
-                           
+
                             </li>
                         </ul>
 
@@ -122,24 +67,25 @@
             </nav>
         </header>
 
-  <br><br><br>
+        <br><br><br>
 
 
 
 
 
-        <!--1st phase-->
-        <div class="container d-flex justify-content-center align-items-center ">
-            <div class="row flex-lg-row align-items-center m-4  ">
+        <!--Hero -->
+        <section class="container d-flex justify-content-center align-items-center ">
+            <div class="row flex-lg-row align-items-center p-4  ">
                 <div class="col-md-6   mx-auto mb-3">
                     <img src="https://uploads-ssl.webflow.com/60d45974277c668d0adff732/60f7bd3dc544903569f53a7d_Banner%20Img.svg"
-                        class="d-block mx-lg-auto img-fluid" alt="" width="700" height="500">
+                        class="d-block mx-lg-auto img-fluid" alt="" width="700" height="500px">
                 </div>
                 <div class="col-md-6   mx-auto">
                     <h1 class="display-5  lh-1 mb-3">
                         Learning From <strong>Nothing</strong> To Be <strong>Something</strong>
                     </h1>
-                    <p class="FR">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dicta, dolore mollitia
+                    <p class="Hightlight">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dicta, dolore
+                        mollitia
                         accusantium, quidem amet necessitatibus ad repellendus aut ullam voluptatibus minus blanditiis
                         maiores facilis et illum iure, obcaecati eos fuga!
                     </p>
@@ -152,20 +98,38 @@
                 </div>
 
             </div>
-        </div>
+        </section>
 
-        <div></div>
+        
 
-       
+        <!-- About Page -->
+        <section class="AboutPage">
+            <div class="container">
+                <ul class="row ">
+                  <div class="Box1  col">
+                        <li> <img src="Image Folder/online-course(1).png" alt="" width="50px" height="50px"> <span class="Vertical"></span>
+                            10 courses
+                        </li> 
+                  </div> 
+                   <div class="Box2 col"> <li> <img src="Image Folder/student.png" alt=""  width="50px" height="50px"> 200 Students</li></div>
+                   <div class="Box3  col"> <li> <img src="Image Folder/blogger.png" alt=""  width="50px" height="50px"> Blogs & Tricks</li></div>
+                    <div class="Box4 col"> <li> <img src="Image Folder/blogger.png" alt=""  width="50px" height="50px"> Page Followers</li></div>
+                </ul>
+            </div>
+        </section>
+ 
+ 
+ 
+
         <br>
         <!--Course Cards-->
-        <div class="Course-Cards  ">
-            <h2 class="mb-5 text-center">The Available Courses</h2>
+        <section class="Course-Cards  ">
+            <h2 class="AC    mb-5 text-center">The Available Courses</h2>
             <div class="container mb-5 d-flex justify-content-center align-items-center">
 
                 <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 g-5">
                     <div class="col">
-                        <div class="card shadow-sm">
+                        <div class="card shadow-sm p-3">
                             <img src="https://uploads-ssl.webflow.com/60d45974277c668d0adff732/60f7bd3dc544903569f53a7d_Banner%20Img.svg"
                                 class="card-img-top" alt="...">
 
@@ -184,7 +148,7 @@
                         </div>
                     </div>
                     <div class="col">
-                        <div class="card shadow-sm">
+                        <div class="card shadow-sm p-3">
                             <img src="https://uploads-ssl.webflow.com/60d45974277c668d0adff732/60f7bd3dc544903569f53a7d_Banner%20Img.svg"
                                 class="card-img-top" alt="...">
 
@@ -201,7 +165,7 @@
                         </div>
                     </div>
                     <div class="col">
-                        <div class="card shadow-sm">
+                        <div class="card shadow-sm p-3">
                             <img src="https://uploads-ssl.webflow.com/60d45974277c668d0adff732/60f7bd3dc544903569f53a7d_Banner%20Img.svg"
                                 class="card-img-top" alt="Laravel">
 
@@ -224,12 +188,12 @@
 
                 </div>
             </div>
-        </div>
+        </section>
         <br>
         <!--Students Feedback-->
-        <div class="Feedback Box  mb-5 mx-auto  ">
-            <h5 class="text-center" style="color: #0092ef;">Testimonial</h5>
-            <h2 class="text-center">Students Feedback</h2> <br><br>
+        <section class="Feedback-Box  mb-5 mx-auto  ">
+            <h5 class="testimonial text-center">Testimonial</h5>
+            <h2 class="SF  text-center">Students Feedback</h2> <br><br>
 
             <div class="feedback-container d-flex justify-content-center align-items-center">
                 <div class="text-center box1 shadow m-3 p-3">
@@ -275,7 +239,7 @@
                 </div>
             </div>
 
-        </div>
+        </section>
 
 
 
@@ -286,7 +250,7 @@
 
         <!--Our Recent Video-->
         <div class="text-center">
-            <h4 class="mb-5">Our Recent Video</h4>
+            <h4 class="RV  mb-5">Our Recent Video</h4>
             <div class="container d-flex justify-content-center align-items-center">
                 <div class="row flex-row  ">
                     <div class="col-md-6 mx-auto mb-4 ">
@@ -316,28 +280,28 @@
         </div>
         <br><br><br>
         <!--Our Recent Post-->
-        
-        <div class="Recent Post">    
-            <h4 class="text-center ">Our Recent Post</h4>
+
+        <section class="Recent Post">
+            <h4 class="RP  text-center ">Our Recent Post</h4>
             <div class="container d-flex justify-content-center align-items-center">
                 <div class="row flex-lg-row align-items-center ">
                     <div class="col-md-6   mx-auto">
                         <img src="https://creativecoder.s3.ap-southeast-1.amazonaws.com/blogs/6Ld162gddWp3zuQ1gtuf3aZ664yyLCEs9GeEMVBf.png"
-                            class="d-block mx-lg-auto img-fluid" alt="" width="700" height="500">
+                            class=" d-block mx-lg-auto img-fluid " alt="" width="e" height="300px">
                     </div>
                     <div class="col-md-6   mx-auto">
                         <h5 class="text-center mb-4">5 Methods In Restful Api Development</h5>
-                        <p>ကယ် အားလုံးပဲမင်္ဂလာပါခင်ဗျာ။ဒီနေ့တော့ ကျနော်တို့ Api development တွေထဲကမှ Restful Api
+                        <p class="text-center p-2">ကယ် အားလုံးပဲမင်္ဂလာပါခင်ဗျာ။ဒီနေ့တော့ ကျနော်တို့ Api development တွေထဲကမှ Restful Api
                             development မှာသုံးတဲ့ method 5 ခုအကြောင်းပြောသွားပေးပါမယ်ဗျ။ အရင်ဆုံး Rest Api method
                             တွေအကြောင်းမပြောခင်မှာ Api အကြောင်းနဲ့ Rest Api
                             အကြောင်းကိုအရင်သိမို့လိုပါတယ်။အဲ့တာနဲ့သက်ဆိုင်တဲ့ Blog ကိုဒီမှာဖတ်နိုင်ပါတယ်ဗျ။</p>
                     </div>
-                    
-    
+
+
                 </div>
             </div>
-        </div>
-    
+        </section>
+
 
 
         <!--footer-->
@@ -355,10 +319,12 @@
                 <div class="col">
                     <h5> Navigation</h5>
                     <ul class="nav flex-column">
-                        <li class="nav-item mb-2"><a href="Creative Coder MM.html" class="nav-link p-0 text-muted">Home</a></li>
+                        <li class="nav-item mb-2"><a href="Creative Coder MM.html"
+                                class="nav-link p-0 text-muted">Home</a></li>
                         <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Blog & Tricks</a></li>
                         <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Courses</a></li>
-                        <li class="nav-item mb-2"><a href="About Us.html" class="nav-link p-0 text-muted">About Us</a></li>
+                        <li class="nav-item mb-2"><a href="About Us.html" class="nav-link p-0 text-muted">About Us</a>
+                        </li>
 
                     </ul>
                 </div>
@@ -379,7 +345,8 @@
                     <ul class="nav flex-column">
                         <li class="nav-item mb-2">
                             <a href="#" class="nav-link p-0 text-muted">
-                                <img src="Image Folder/placeholder.png" width="20px" height="20px"> 101 Street, Mingalar Taung Nyunt,
+                                <img src="Image Folder/placeholder.png" width="20px" height="20px"> 101 Street, Mingalar
+                                Taung Nyunt,
                                 Yangon,Myanmar.
                             </a>
                         </li>
@@ -392,14 +359,14 @@
                                 class="nav-link p-0 text-muted">creativecoder@gmail.com</a>
                         </li>
                         <ul class="list-unstyled d-flex">
-                            <li class="ms-3"><a class="link" href="#"><img src="Image Folder/facebook.png" alt="" width="24"
-                                        height="24"></a></li>
-                            <li class="ms-3"><a class="link" href="#"><img src="Image Folder/instagram.png" alt="" width="24"
-                                        height="24"></a></li>
-                            <li class="ms-3"><a class="link" href="#"><img src="Image Folder/twitter.png" alt="" width="24"
-                                        height="24"><a></li>
-                            <li class="ms-3"><a class="link" href="#"><img src="Image Folder/github.png" alt="" width="24"
-                                        height="24"><a></li>
+                            <li class="ms-3"><a class="link" href="#"><img src="Image Folder/facebook.png" alt=""
+                                        width="24" height="24"></a></li>
+                            <li class="ms-3"><a class="link" href="#"><img src="Image Folder/instagram.png" alt=""
+                                        width="24" height="24"></a></li>
+                            <li class="ms-3"><a class="link" href="#"><img src="Image Folder/twitter.png" alt=""
+                                        width="24" height="24"><a></li>
+                            <li class="ms-3"><a class="link" href="#"><img src="Image Folder/github.png" alt=""
+                                        width="24" height="24"><a></li>
                         </ul>
 
                     </ul>

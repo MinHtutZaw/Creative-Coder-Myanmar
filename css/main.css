@@ -1,0 +1,92 @@
+:root {
+  --primary-color: #fff;
+  --secondary-color:#0092ef;
+}
+
+.Hightlight {
+  border-style: none none none solid;
+  border-width: 5px;
+  border-color: var(--secondary-color);
+}
+
+.Box1 {
+  background-color: #7692BC;
+  padding: 1em;
+  margin: 0.3em;
+  color: #fff;
+  border-radius: 2em;
+}
+
+.Box2 {
+  background-color: #7692BC;
+  padding: 1em;
+  margin: 0.3em;
+  color: #fff;
+  border-radius: 2em;
+}
+
+.Box3 {
+  background-color: #7692BC;
+  padding: 1em;
+  margin: 0.3em;
+  color: #fff;
+  border-radius: 2em;
+}
+
+.Box4 {
+  background-color: #7692BC;
+  padding: 1em;
+  margin: 0.3em;
+  color: white;
+  border-radius: 2em;
+}
+
+.span {
+  border-right-width: 50px;
+}
+
+.testimonial {
+  color: var(--secondary-color);
+}
+
+.AvaterImage {
+  border-radius: 50%;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.AC {
+  cursor: pointer;
+}
+
+.SF {
+  cursor: pointer;
+}
+
+.RV {
+  cursor: pointer;
+}
+
+.RP {
+  cursor: pointer;
+}
+
+@media (max-width: 767px) {
+  .feedback-container {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+}
+/*# sourceMappingURL=main.css.map */
